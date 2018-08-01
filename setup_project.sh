@@ -1,3 +1,4 @@
+#!/bin/bash
 source /opt/ros/indigo/setup.bash
 
 export ROS_NODE_PORT=`get_free_port.py`
